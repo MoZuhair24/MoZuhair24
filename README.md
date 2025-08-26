@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=42&duration=2000&pause=800&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi,+I'm+Mo+Zuhair)](https://git.io/typing-svg)
-
+Hii, I' Mo. Zuhair
 ---
 
 #  Java Backend Developer | Spring Boot | AI Enthusiast
@@ -21,8 +20,8 @@ Currently, I’m honing my skills through hands-on work in backend systems, REST
 
 ##  Projects
 
-- **School Management System (ERP)** – Spring Boot system for duty allocation, leave workflows, and geolocation  
-- *(Add more projects here when available, like personal or team projects)*  
+- 🏫 *School Management System (Duty Management Module)* – Duty allocation, compensation tracking, and geolocation features.  
+- 📝 *Leave Request Management System* – Employee leave request handling with authentication & approval workflows.
 
 ---
 
