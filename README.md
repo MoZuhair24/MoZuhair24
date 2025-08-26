@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hii, I'm Mo. Zuhair</h1>
+# 👋 Hii, I'm **Mo. Zuhair**
 ---
 
 #  Java Backend Developer | Spring Boot | AI Enthusiast
